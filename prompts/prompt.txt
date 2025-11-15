@@ -1,4 +1,23 @@
-prompts/
-roteiro/
-audio/
-src/
+Crie um episódio de podcast com 1 minuto sobre o tema: [TEMA]
+
+Estilo:
+- calmo, reflexivo, minimalista
+- linguagem suave, com pequenas pausas
+- metáfora simples no início
+- uma reflexão central
+- uma curiosidade curta no final
+
+Estrutura:
+1. Abertura
+2. Micro-história
+3. Reflexão
+4. Curiosidade
+5. Encerramento
+
+Trilha:
+- ambiente, pads, som suave
+
+Formato:
+- Texto pronto para ser narrado por IA
+- Indicar pausas com "..."
+- Tempo total aproximado: 1 minuto
